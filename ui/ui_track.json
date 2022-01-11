@@ -1,0 +1,22 @@
+{
+	"name": "MAR",
+	"description": "Mid-AMerica Raceway",
+	"tags": [
+	  "circuit",
+	  "usa"
+	],
+	"geotags": [
+	  "43° 48′ 54″ N",
+	  "87° 60′ 42″ W"
+	],
+	"country": "USA",
+	"city": "Wentzville",
+	"year": 2005,
+	"author": "Specdizzle",
+	"length": "6515",
+	"width": "9m-12m",
+	"pitboxes": "43",
+	"run": "clockwise",
+	"version": 1.0,
+	"url": null
+  }
